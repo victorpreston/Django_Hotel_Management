@@ -79,7 +79,7 @@ python3 manage.py runserver
 * This will work if correctly set up.
 
 ## Notes:
-#### Note 1: In the program, there are some payment page. No need to enter real credit-card informations. The payment page is just for the system, it doesnt work. However; after this page, a verification code is sent the user email address.
+#### Note 1: In the programe, there are some payment page. No need to enter real credit-card informations. The payment page is just for the system, it doesnt work. However; after this page, a verification code is sent the user email address.
 
 
 #### Note 2: You can only sign up as a guest to the system. In order to add employee (Manager - Receptionist - Staff): 
